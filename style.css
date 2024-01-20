@@ -44,9 +44,9 @@
 .navigation-bar li a:hover{
     cursor: pointer;
     background-color: #e7e7e7ab;
-    padding: 10px 0px;
+    padding: 12px 0px;
     border-radius: 5px;
-    transition: all .2s ease-in;
+    transition: all .2s ease-in-out;
 }
 
 .signBtn {
