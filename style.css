@@ -86,6 +86,11 @@
     font-weight: 600;
 }
 
+.kyc:last-child{
+    font-size: 15px;
+    font-weight: 500;
+}
+
 /* Hero Section */
 
 .hero {
