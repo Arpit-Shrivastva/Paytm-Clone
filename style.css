@@ -37,8 +37,8 @@
 .navigation-bar ul li a {
     text-decoration: none;
     color: black;
-    font-weight: 700;
-    font-size: 1em;
+    font-weight: 600;
+    font-size: 1.07em;
 }
 
 .navigation-bar li a:hover{
